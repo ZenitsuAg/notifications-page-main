@@ -4,14 +4,16 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - Notifications page solution](#frontend-mentor---notifications-page-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -30,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/notificationspagemain-w509Z6uUz7)
-- Live Site URL: [Add live site URL here](https://zenitsuag.github.io/notifications-page-main/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/notificationspagemain-w509Z6uUz7)
+- Live Site URL: [GitHub Pages](https://zenitsuag.github.io/notifications-page-main/)
 
 ## My process
 
